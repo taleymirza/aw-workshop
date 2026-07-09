@@ -1,7 +1,8 @@
 ---
 on:
-  pull_request:
-    types: [opened, synchronize]
+  schedule:
+    - cron: '0 9 * * 1-5'
+  workflow_dispatch:
 permissions:
       contents: read
 engine: claude
@@ -33,7 +34,7 @@ The workflow has been generated based on your selections. Consider adding:
 
 ## Configuration Summary
 
-- **Trigger**: Pull request opened or synchronized
+- **Trigger**: Weekdays at 9 AM UTC, or manual trigger
 - **AI Engine**: claude
 - **Network Access**: defaults,node
 
