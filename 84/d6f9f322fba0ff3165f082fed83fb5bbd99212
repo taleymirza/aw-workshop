@@ -1,0 +1,23 @@
+.github/aw/actions-lock.json
+  s_6f5ea92458e865::t_a042895f0b3619 3-7
+.github/workflows/agentics-maintenance.yml
+  s_6f5ea92458e865::t_a042895f0b3619 1-614
+.github/workflows/issue-triage.lock.yml
+  s_6f5ea92458e865::t_c4ebfe7bffad50 1-1677
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "84d6f9f322fba0ff3165f082fed83fb5bbd99212",
+  "prompts": {},
+  "sessions": {
+    "s_6f5ea92458e865": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "739307a3-de85-4f97-8058-ec54321c7d36",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "taleymirza <talia.asghar@deliveryhero.com>"
+    }
+  }
+}
