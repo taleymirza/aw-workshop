@@ -1,0 +1,26 @@
+.github/workflows/issue-triage.md
+  s_6f5ea92458e865::t_f0c46af938a2cc 3-11,21-23,26-29,33-37
+  s_6f5ea92458e865::t_782dac9792469b 15,24,31
+  s_6f5ea92458e865::t_2124afdcc55d94 12-14,16,25
+  s_6f5ea92458e865::t_42870adf24b981 1-2,17-20,30,32
+.github/workflows/daily-digest.md
+  s_6f5ea92458e865::t_363b0e65e7bafd 3-5,37
+.github/workflows/daily-digest.lock.yml
+  s_6f5ea92458e865::t_84209d16296978 1,54-62,67,341,379-381
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9d809a4343277400f876bbd8005d9123c95cef5e",
+  "prompts": {},
+  "sessions": {
+    "s_6f5ea92458e865": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "739307a3-de85-4f97-8058-ec54321c7d36",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "taleymirza <talia.asghar@deliveryhero.com>"
+    }
+  }
+}
